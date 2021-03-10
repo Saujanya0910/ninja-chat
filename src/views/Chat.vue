@@ -13,7 +13,7 @@
             </div>
             <div class="card-action">
                 <NewMessage :name="name"/>
-                <input type="text">
+                <!-- <input type="text"> -->
             </div>
         </div>
     </div>
