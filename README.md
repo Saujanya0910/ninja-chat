@@ -1,4 +1,5 @@
 # ninja-chat
+A basic open-room chat app made using Vue.js and Firebase.
 
 ## Project setup
 ```
